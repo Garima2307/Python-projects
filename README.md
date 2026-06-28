@@ -10,11 +10,10 @@ This repository contains all the projects and exercises I complete while followi
 
 ## Progress
 
-| Day | Project | Status |
-|-----|---------|--------|
-| 1 | Band Name Generator | ✅ |
-| 2 | Tip Calculator | ✅ |
-| 3 | BMI Calculator | ✅ |
-| 4 | Rock Paper Scissors | ⏳ |
+Day	Project	Description	Status
+1	Band Name Generator	Generates fun band names from user input.	✅
+2	Tip Calculator	Splits restaurant bills among friends.	✅
+3	Treasure Island	Text-based adventure game using conditionals.	✅
+3	Haunted House	Interactive choice-based mini game.	✅
 
 I'll update this table as I complete each day's project.
