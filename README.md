@@ -15,6 +15,9 @@ Day	Project	Description	Status
 2	Tip Calculator	Splits restaurant bills among friends.	✅
 3	Treasure Island	Text-based adventure game using conditionals.	✅
 3	Haunted House	Interactive choice-based mini game.	✅
-4 Rock , Paper , Scissors game.✅ 
+4   Rock , Paper , Scissors game.✅ 
+5   Password Generator ✅ 
+6   Escaping the maze game on a software ✅ 
+7   Hangman game ✅ 
 
 I'll update this table as I complete each day's project.
