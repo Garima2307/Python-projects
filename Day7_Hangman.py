@@ -13,7 +13,7 @@ chosen_word = random.choice(hangman_words.word_list)
 placeholder = ""
 word_length = len(chosen_word)
 for position in range(word_length):
-    placeholder += "_"
+    placeholder += "_ "
 print("Word to guess: " + placeholder)
 
 game_over = False
@@ -25,7 +25,8 @@ while not game_over:
     guess = input("Guess a letter: ").lower()
 
     if guess in correct_letters:
-        print(f"You have already guessed {guess}" )
+        print(f"You have already guessed {guess}")
+        continue #will not execute the rest of the while code and will directlr go to next iteration of loop , prevents duplicacy or repetion of letters in correct_words list
 
     display = ""
 
@@ -36,8 +37,8 @@ while not game_over:
         elif letter in correct_letters:
             display += letter
         else:
-            display += "_"
-
+            display += " _ "
+    
     print("Word to guess: " + display)
 
     
