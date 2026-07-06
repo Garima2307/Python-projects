@@ -19,5 +19,6 @@ Day	Project	Description	Status
 5   Password Generator ✅ 
 6   Escaping the maze game on a software ✅ 
 7   Hangman game ✅ 
+8   Caesar Cipher ✅ 
 
 I'll update this table as I complete each day's project.
