@@ -2,7 +2,6 @@ import random
 import hangman_words
 import hangman_art
 
-word_list = random.choice(hangman_words.word_list)
 
 lives = 6
 
@@ -26,19 +25,23 @@ while not game_over:
 
     if guess in correct_letters:
         print(f"You have already guessed {guess}")
-        continue #will not execute the rest of the while code and will directlr go to next iteration of loop , prevents duplicacy or repetion of letters in correct_words list
-
+        
+        
     display = ""
 
     for letter in chosen_word:
         if letter == guess:
             display += letter
-            correct_letters.append(guess)
+            
         elif letter in correct_letters:
             display += letter
         else:
             display += " _ "
     
+    # Add the guessed letter only once
+    if guess in chosen_word and guess not in correct_letters:
+        correct_letters.append(guess)
+
     print("Word to guess: " + display)
 
     
@@ -55,4 +58,5 @@ while not game_over:
         print("****************************YOU WIN****************************")
 
     print(hangman_art.stages[lives])
+    
 
