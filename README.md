@@ -20,5 +20,9 @@ Day	Project	Description	Status
 6   Escaping the maze game on a software ✅ 
 7   Hangman game ✅ 
 8   Caesar Cipher ✅ 
+9   Blind Auction ✅ 
+
+
+
 
 I'll update this table as I complete each day's project.
