@@ -21,6 +21,7 @@ Day	Project	Description	Status
 7   Hangman game ✅ 
 8   Caesar Cipher ✅ 
 9   Blind Auction ✅ 
+10  Calculator ✅ 
 
 
 
