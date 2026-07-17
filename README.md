@@ -22,7 +22,7 @@ Day	Project	Description	Status
 8   Caesar Cipher ✅ 
 9   Blind Auction ✅ 
 10  Calculator ✅ 
-
+11  Blackjack Game ✅ 
 
 
 
