@@ -4,9 +4,9 @@
 # TODO-4: Compare bids in dictionary
 
 
-import art
+import art_Day9
 
-print(art.logo)
+print(art_Day9.logo)
 
 user_data = {}
 auction_continue = True
