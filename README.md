@@ -23,6 +23,7 @@ Day	Project	Description	Status
 9   Blind Auction ✅ 
 10  Calculator ✅ 
 11  Blackjack Game ✅ 
+12  Guessing the number game ✅
 
 
 
