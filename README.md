@@ -24,6 +24,7 @@ Day	Project	Description	Status
 10  Calculator ✅ 
 11  Blackjack Game ✅ 
 12  Guessing the number game ✅
+14  Higher Lower game ✅
 
 
 
