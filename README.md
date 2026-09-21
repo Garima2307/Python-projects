@@ -25,6 +25,7 @@ Day	Project	Description	Status
 11  Blackjack Game ✅ 
 12  Guessing the number game ✅
 14  Higher Lower game ✅
+15  Coffee Machins ✅
 
 
 
